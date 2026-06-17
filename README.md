@@ -1,4 +1,4 @@
-# Projet IPD
+# Projet-IPD
 Projet realise dans le cadre de l'examen pratique Git.
 ## Membres du groupe
 - Membre A : Mamoudou Diallo
